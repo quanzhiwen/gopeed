@@ -1,1 +1,1 @@
-From liwei2633/gopeed:v1.5.7
+From yisier1/nps:v0.26.19
